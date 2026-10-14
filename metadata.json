@@ -1,0 +1,8 @@
+{
+  "name": "GB STUDY",
+  "description": "GB STUDY - Free Premium Sanskrit & Academic Courses, Batches, Real Video Lectures, Class Notes, and Test Series.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
